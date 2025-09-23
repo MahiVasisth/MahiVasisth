@@ -1,5 +1,5 @@
 ## Smart Contract Security Auditor 
-Hi there 👋 . I am Mahi Vasisth . Independent Web3 Security Researcher from March 2024 to April 2025, currently Security Researcher at TechFund Inc. Specialized in smart contract auditing, DeFi security, and blockchain infrastructure with focus on identifying vulnerabilities, writing proof-of-concepts, and contributing to secure protocol design. Experienced in both solo and collaborative audit environments across competitive platforms.
+Hi there 👋. I am Mahi Vasisth . Independent Web3 Security Researcher from March 2024 to April 2025, currently Security Researcher at TechFund Inc. Specialized in smart contract auditing, DeFi security, and blockchain infrastructure with focus on identifying vulnerabilities, writing proof-of-concepts, and contributing to secure protocol design. Experienced in both solo and collaborative audit environments across competitive platforms.
 
 
 ## My Impact
@@ -8,13 +8,6 @@ Hi there 👋 . I am Mahi Vasisth . Independent Web3 Security Researcher from Ma
 - Global Ranking: #883 all-time across competitive audit platforms  
 - Success Rate: 17 payouts from competitive audits
 - Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes
-
-**Platform Performance:**
-- Sherlock: Active security researcher with consistent findings
-- Code4rena: Individual and team participant with notable rankings
-- Cantina: Regular contributor with multiple payouts  
-- CodeHawks: Solo and collaborative audit participant
-
 
 ## Notable Achievements
 
@@ -73,7 +66,7 @@ Hi there 👋 . I am Mahi Vasisth . Independent Web3 Security Researcher from Ma
 - Languages: Solidity, JavaScript, Move, Vyper
 - Frameworks: Hardhat, Foundry, Truffle
 - Testing: Foundry fuzzing, Echidna, Medusa
-- Analysis Tools: Slither, Mythril, Semgrep, Manticore
+- Analysis Tools: Slither, Mythril
 
 **Protocol Expertise:**
 - Lending and Borrowing Protocols
@@ -90,9 +83,9 @@ Hi there 👋 . I am Mahi Vasisth . Independent Web3 Security Researcher from Ma
 ## Professional Experience
 
 **Security Researcher** - TechFund Inc. (April 2025 - Present)
-- Conducting institutional-grade security assessments
-- Developing automated vulnerability detection methodologies
-- Leading security research initiatives
+- Reviewing systems to find and fix security issues
+- Creating tools to automatically detect vulnerabilities
+- Leading research projects to improve overall security
 
 **Independent Security Researcher** - Freelance (March 2024 - April 2025)  
 - Competitive audit participation across major platforms
@@ -100,12 +93,10 @@ Hi there 👋 . I am Mahi Vasisth . Independent Web3 Security Researcher from Ma
 - Built reputation through consistent high-quality security findings
 
 ## My Blogs
- ** Denial Of Service Attack **
- 
+ **Denial Of Service Attack** :
  https://techfund.jp/en/media/denial-of-service-smart-contracts
  
-** Getting Started With Move and Common Bugs to watch out for **
-
+**Getting Started With Move and Common Bugs to watch out for** :
 https://techfund.jp/en/media/Move-Explained
 
 ## Education and Training
@@ -147,7 +138,7 @@ https://techfund.jp/en/media/Move-Explained
 - Cantina: https://cantina.xyz/u/mahivasisth
 
 **Professional Networks:**
-- LinkedIn: https://www.linkedin.com/in/mohini-vasisth-2524b7203/
+- LinkedIn: https://www.linkedin.com/in/mohini-vasisth/
 - Twitter: https://x.com/Mahi910524
 
 
