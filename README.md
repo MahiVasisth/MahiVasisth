@@ -4,18 +4,18 @@ Hi there 👋. I am Mahi Vasisth . Independent Web3 Security Researcher from Mar
 
 ## My Impact
 **Security Metrics:**
-- Total Findings: 50+ H/M .
-- Global Ranking: #883 all-time across competitive audit platforms  
-- Success Rate: 17 payouts from competitive audits
-- Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes
+- Total Findings: 50+ H/M.
+- Global Ranking: #883 all-time across competitive audit platforms.  
+- Success Rate: 17 payouts from competitive audits.
+- Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes.
 
 ## Notable Achievements
 
 **Highest Impact Findings:**
-- **Taiko Protocol**: Tier selection randomness exploitation (#18 ranking, $1,030.98 payout)
-- **BitVault**: WBTC collateral token incompatibility (#5 ranking, $650.53 payout)  
-- **Thorchain**: Incorrect ETH transfer event emissions (#13 ranking, $458.56 payout)
-- **Core Contracts**: 37 total findings including critical economic design flaws (#18 ranking, $1,086.03 payout)
+- **Taiko Protocol**: Tier selection randomness exploitation (#18 ranking, $1,030.98 payout).
+- **BitVault**: WBTC collateral token incompatibility (#5 ranking, $650.53 payout).  
+- **Thorchain**: Incorrect ETH transfer event emissions (#13 ranking, $458.56 payout).
+- **Core Contracts**: 37 total findings including critical economic design flaws (#18 ranking, $1,086.03 payout).
 
 ## Competitive Audits
 
