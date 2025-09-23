@@ -100,6 +100,15 @@ Hi there 👋 . I am Mahi Vasisth . Independent Web3 Security Researcher from Ma
 - Specialized vulnerability research in DeFi protocols
 - Built reputation through consistent high-quality security findings
 
+## My Blogs
+ ** Denial Of Service Attack **
+ 
+ https://techfund.jp/en/media/denial-of-service-smart-contracts
+ 
+** Getting Started With Move and Common Bugs to watch out for **
+
+https://techfund.jp/en/media/Move-Explained
+
 ## Education and Training
 
 **Academic Background:**
