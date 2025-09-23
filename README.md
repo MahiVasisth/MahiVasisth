@@ -6,7 +6,6 @@ Hi there 👋 . I am Mahi Vasisth . Independent Web3 Security Researcher from Ma
 **Security Metrics:**
 - Total Findings: 45 vulnerabilities (22 High, 23 Medium severity)
 - Global Ranking: #883 all-time across competitive audit platforms  
-- Total Earnings: $3,850+ from vulnerability discoveries
 - Success Rate: 17 payouts from competitive audits
 - Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes
 
