@@ -4,7 +4,7 @@ Hi there 👋 . I am Mahi Vasisth . Independent Web3 Security Researcher from Ma
 
 ## My Impact
 **Security Metrics:**
-- Total Findings: 45 vulnerabilities (22 High, 23 Medium severity)
+- Total Findings: 50+ H/M .
 - Global Ranking: #883 all-time across competitive audit platforms  
 - Success Rate: 17 payouts from competitive audits
 - Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes
@@ -50,8 +50,8 @@ Hi there 👋 . I am Mahi Vasisth . Independent Web3 Security Researcher from Ma
 
 | Contest                  | Language | Date       | Platform    | Category               | Findings | Ranking  | Earned Amount |
 |--------------------------|----------|------------|-------------|------------------------|----------|----------|---------------|
-| **Metropolis**           | Solidity | 11/04/2025 | Cantina     | Vault                  | 1        | #15      | $379          |
-| **Mighty-Finance**       | Solidity | 04/21/2025 | Cantina     | Yield Generation       | 4        | #5       | $1,140        |
+| **Metropolis**           | Solidity | 11/04/2025 | Cantina     | Vault                  | 6        | #15      | $379          |
+| **Mighty-Finance**       | Solidity | 04/21/2025 | Cantina     | Yield Generation       | 14        | #5       | $1,140        |
 | **Upside**               | Solidity | 05/20/2025 | Code4rena   | Liquid Staking         | —        | —        | —             |
 | **Aave-Aptos**           | Move     | 05/24/2025 | Cantina     | Lending & Borrowing    | 3        | —        | —             |
 | **Cap Stablecoin**       | Solidity | 07/17/2025 | Sherlock    | Stablecoin / Staking   | —        | —        | —             |
