@@ -52,6 +52,13 @@ Hi there 👋. I am Mahi Vasisth. Independent Web3 Security Researcher from Marc
 | **Blockz (Marketplace)** | Solidity | 09/08/2025 | Hackenproof | NFT Marketplace        | 4        | Pending  | —             |
 | **Dango Dex**            | Rust     | 09/16/2025 | Sherlock    | DEX                    | —        | Ongoing  | —             |
 
+## My Blogs
+ **Denial Of Service Attack** :
+ https://techfund.jp/en/media/denial-of-service-smart-contracts
+ 
+**Getting Started With Move and Common Bugs to watch out for** :
+https://techfund.jp/en/media/Move-Explained
+
 ## Technical Skills
 
 **Security Specializations:**
@@ -90,13 +97,6 @@ Hi there 👋. I am Mahi Vasisth. Independent Web3 Security Researcher from Marc
 - Competitive audit participation across major platforms
 - Specialized vulnerability research in DeFi protocols
 - Built reputation through consistent high-quality security findings
-
-## My Blogs
- **Denial Of Service Attack** :
- https://techfund.jp/en/media/denial-of-service-smart-contracts
- 
-**Getting Started With Move and Common Bugs to watch out for** :
-https://techfund.jp/en/media/Move-Explained
 
 ## Education and Training
 
