@@ -1,9 +1,8 @@
 ## Smart Contract Security Auditor 
 Hi there 👋. I am Mahi Vasisth. Independent Web3 Security Researcher from March 2024 to April 2025, currently Security Researcher at TechFund Inc. Specialized in smart contract auditing, DeFi security, and blockchain infrastructure with focus on identifying vulnerabilities, writing proof-of-concepts, and contributing to secure protocol design. Experienced in both solo and collaborative audit environments across competitive platforms.
 
-
-## My Impact
-**Security Metrics:**
+**Achievements:**
+- 1+ year of Smart Contract Auditing Experience. 
 - Total Findings: 50+ H/M.
 - Global Ranking: #883 all-time across competitive audit platforms.  
 - Success Rate: 17 payouts from competitive audits.
