@@ -20,6 +20,7 @@ Hi there 👋. I am Mahi Vasisth. Independent Web3 Security Researcher from Marc
 
 | Contest | Language | Date | Platform | Category | Findings | Ranking | Payout |
 |---------|----------|------|----------|----------|----------|---------|---------|
+| SuiDex SC DualDefense Audit | Move | September 2025 | Hackenproof | DEX and Yield Farming | 2 findings | Waiting For results | - |
 | alchemix-v3 | Solidity | May 2025 | Cantina | DeFi Lending | 4 findings | #41 | $156.91 |
 | mezo-monorepo | Solidity | Apr 2025 | Cantina | Bitcoin DeFi | 2 findings | #42 | $42.39 |
 | BitVault | Solidity | Apr 2025 | Code4rena | DeFi Vault | 1H | #5 | $650.53 |
