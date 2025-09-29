@@ -3,7 +3,7 @@ Hi there 👋. I am Mahi Vasisth. Independent Web3 Security Researcher from Marc
 
 **Achievements:**
 - 1+ year of Smart Contract Auditing Experience. 
-- Total Findings: 50+ H/M.
+- Total Findings: 80+ H/M.
 - Global Ranking: #883 all-time across competitive audit platforms.  
 - Success Rate: 17 payouts from competitive audits.
 - Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes.
