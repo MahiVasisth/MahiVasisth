@@ -8,14 +8,8 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 - Global Ranking: #883 all-time across competitive audit platforms.  
 - Success Rate: 17 payouts from competitive audits.
 - Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes.
+- Winner – Ethereum Foundation Prize at ETHGlobal New Delhi 2025 for building zkETHer, a privacy-focused ERC20 with a zk mixer-style circuit.
 
-## Notable Achievements
-
-**Highest Impact Findings:**
-- **Taiko Protocol**: Tier selection randomness exploitation (#18 ranking, $1,030.98 payout).
-- **BitVault**: WBTC collateral token incompatibility (#5 ranking, $650.53 payout).  
-- **Thorchain**: Incorrect ETH transfer event emissions (#13 ranking, $458.56 payout).
-- **Core Contracts**: 37 total findings including critical economic design flaws (#18 ranking, $1,086.03 payout).
 
 ## Competitive Audits
 
@@ -60,6 +54,9 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
  
 **Getting Started With Move and Common Bugs to watch out for** :
 https://techfund.jp/en/media/Move-Explained
+
+**The Complete Beginner’s Guide to Perpetual Swaps and Trading** :
+https://techfund.jp/en/media/perpetual-swaps
 
 ## Technical Skills
 
