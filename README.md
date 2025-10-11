@@ -3,9 +3,8 @@ Hi there 👋. I’m Mahi Vasisth.
 Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Security Researcher at TechFund Inc. Specialized in smart contract auditing, DeFi security, and blockchain infrastructure, with a strong focus on identifying vulnerabilities, writing proof-of-concepts, and contributing to secure protocol design. Experienced in both solo and team-based audits across competitive platforms, and recognized for winning the Ethereum Foundation Prize 🥇 at ETHGlobal New Delhi 2025 for building zkETHer, a privacy-focused ERC20 with a zk mixer-style circuit.
 
 **Achievements:**
-- 1+ year of Smart Contract Auditing Experience. 
-- Total Findings: 80+ H/M.
-- Global Ranking: #883 all-time across competitive audit platforms.  
+- 1.5 year of Smart Contract Auditing Experience. 
+- Total Findings: 75+ H/M.
 - Success Rate: 17 payouts from competitive audits.
 - Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes.
 - Winner – Ethereum Foundation Prize at ETHGlobal New Delhi 2025 for building zkETHer, a privacy-focused ERC20 with a zk mixer-style circuit.
@@ -43,7 +42,7 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 | **Upside**               | Solidity | 05/20/2025 | Code4rena   | Liquid Staking         | —        | —        | —             |
 | **Aave-Aptos**           | Move     | 05/24/2025 | Cantina     | Lending & Borrowing    | 3        | —        | —             |
 | **Cap Stablecoin**       | Solidity | 07/17/2025 | Sherlock    | Stablecoin / Staking   | —        | —        | —             |
-| **Malda**                | Solidity | 07/25/2025 | Sherlock    | Lending, L2, zkProof   | —        | Pending  | —             |
+| **Malda**                | Solidity | 07/25/2025 | Sherlock    | Lending, L2, zkProof   | 1        | -        | —             |
 | **Neutrl Protocol**      | Solidity | 08/19/2025 | Sherlock    | Stablecoin Derivatives | 1        | #1       | $941          |
 | **Blockz (Marketplace)** | Solidity | 09/08/2025 | Hackenproof | NFT Marketplace        | 4        | Pending  | —             |
 | **Dango Dex**            | Rust     | 09/16/2025 | Sherlock    | DEX                    | —        | Ongoing  | —             |
