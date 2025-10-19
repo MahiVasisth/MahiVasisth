@@ -44,7 +44,7 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 | **Cap Stablecoin**       | Solidity | 07/17/2025 | Sherlock    | Stablecoin / Staking   | —        | —        | —             |
 | **Malda**                | Solidity | 07/25/2025 | Sherlock    | Lending, L2, zkProof   | 1        | -        | —             |
 | **Neutrl Protocol**      | Solidity | 08/19/2025 | Sherlock    | Stablecoin Derivatives | 1        | #1       | $941          |
-| **Blockz (Marketplace)** | Solidity | 09/08/2025 | Hackenproof | NFT Marketplace        | 4        | Pending  | —             |
+| **Blockz (Marketplace)** | Solidity | 09/08/2025 | Hackenproof | NFT Marketplace        | 4        | #9  | $151             |
 | **Dango Dex**            | Rust     | 09/16/2025 | Sherlock    | DEX                    | —        | Ongoing  | —             |
 
 ## My Blogs
