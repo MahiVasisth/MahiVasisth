@@ -14,6 +14,7 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 
 | Contest | Language | Date | Platform | Category | Findings | Ranking | Payout |
 |---------|----------|------|----------|----------|----------|---------|---------|
+| Reflector | Rust | Nov 2025 | Code4rena | Steller DeFi | 3 | Ongoing | - |
 | SuiDex SC DualDefense Audit | Move | September 2025 | Hackenproof | DEX and Yield Farming | 2 findings | Waiting For results | - |
 | alchemix-v3 | Solidity | May 2025 | Cantina | DeFi Lending | 4 findings | #41 | $156.91 |
 | mezo-monorepo | Solidity | Apr 2025 | Cantina | Bitcoin DeFi | 2 findings | #42 | $42.39 |
@@ -45,7 +46,11 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 | **Malda**                | Solidity | 07/25/2025 | Sherlock    | Lending, L2, zkProof   | 1        | -        | —             |
 | **Neutrl Protocol**      | Solidity | 08/19/2025 | Sherlock    | Stablecoin Derivatives | 1        | #1       | $941          |
 | **Blockz (Marketplace)** | Solidity | 09/08/2025 | Hackenproof | NFT Marketplace        | 4        | #9  | $151             |
-| **Dango Dex**            | Rust     | 09/16/2025 | Sherlock    | DEX                    | —        | Ongoing  | —             |
+| **Dango Dex**            | Rust     | 09/16/2025 | Sherlock    | DEX                    | 2        | Awaiting Results  | —             |
+| **Super DCA**            | Solidity | 09/29/2025 | Sherlock    | AMM                    | 2        | - | $29 |
+| **Belong** | Solidity & Cairo | 10/21/2025 | Immunify | - | 7 | Awaiting Results | - | 
+| **Rain** | Solidity | 11/4/2025 | HackenProof | Pediction Markets | -  | Ongoing | - |
+
 
 ## My Blogs
  **Denial Of Service Attack** :
