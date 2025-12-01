@@ -51,6 +51,12 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 | **Belong** | Solidity & Cairo | 10/21/2025 | Immunify | - | 7 | Awaiting Results | - | 
 | **Rain** | Solidity | 11/4/2025 | HackenProof | Pediction Markets | -  | Ongoing | - |
 
+## Private Audits
+
+| Protocol Name | Protocol Type        | Report      | Date      |
+|---------------|-----------------------|-------------|-----------|
+| Luxx_Coin - [SafeEdges](https://safeedges.in/) | Web3 GameFi Token | [Private] | Nov 2025 |
+
 
 ## My Blogs
  **Denial Of Service Attack** :
