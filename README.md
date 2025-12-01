@@ -53,9 +53,9 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 
 ## Private Audits
 
-| Protocol Name | Protocol Type        | Report      | Date      |
-|---------------|-----------------------|-------------|-----------|
-| Luxx_Coin - [SafeEdges](https://safeedges.in/) | Web3 GameFi Token | [Private] | Nov 2025 |
+| Protocol Name                                | Protocol Type      | Language | Report        | Date      |
+|----------------------------------------------|--------------------|----------|---------------|-----------|
+| Luxx_Coin – [SafeEdges](https://safeedges.in/) | Web3 GameFi Token  | Rust (Solana) | [Private] | Nov 2025 |
 
 
 ## My Blogs
@@ -67,6 +67,9 @@ https://techfund.jp/en/media/Move-Explained
 
 **The Complete Beginner’s Guide to Perpetual Swaps and Trading** :
 https://techfund.jp/en/media/perpetual-swaps
+
+**How Solana Accounts Are Different from Ethereum Contracts** :
+https://techfund.jp/en/media/solana-accounts-vs-ethereum-contracts
 
 ## Technical Skills
 
