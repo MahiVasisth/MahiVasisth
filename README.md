@@ -55,7 +55,7 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 
 | Protocol Name                                | Protocol Type      | Language | Report        | Date      |
 |----------------------------------------------|--------------------|----------|---------------|-----------|
-| Luxx_Coin – [SafeEdges](https://safeedges.in/) | Web3 GameFi Token  | Rust (Solana) | [Private] | Nov 2025 |
+| Luxx_Coin – [SafeEdges](https://safeedges.in/) | Web3 GameFi Token  | Rust (Solana) | [Link](https://github.com/Safe-Edges/Audit-Portfolio/blob/main/Audit-Reports/Luxxcoin%20by%20Final%20Audit%20Report%20by%20SafeEdges.pdf) | Nov 2025 |
 
 
 ## My Blogs
