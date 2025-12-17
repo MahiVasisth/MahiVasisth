@@ -4,7 +4,7 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 
 **Achievements:**
 - 1.5 year of Smart Contract Auditing Experience. 
-- Total Findings: 75+ H/M.
+- Total Findings: 80+ H/M.
 - Success Rate: 17 payouts from competitive audits.
 - Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes.
 - Winner – Ethereum Foundation Prize at ETHGlobal New Delhi 2025 for building zkETHer, a privacy-focused ERC20 with a zk mixer-style circuit.
