@@ -3,8 +3,8 @@ Hi there 👋. I’m Mahi Vasisth.
 Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Security Researcher at TechFund Inc. Specialized in smart contract auditing, DeFi security, and blockchain infrastructure, with a strong focus on identifying vulnerabilities, writing proof-of-concepts, and contributing to secure protocol design. Experienced in both solo and team-based audits across competitive platforms, and recognized for winning the Ethereum Foundation Prize 🥇 at ETHGlobal New Delhi 2025 for building zkETHer, a privacy-focused ERC20 with a zk mixer-style circuit.
 
 **Achievements:**
-- 1.9 year of Smart Contract Auditing Experience. 
-- Total Findings: 80+ H/M.
+- 2 year of Smart Contract Auditing Experience. 
+- Total Findings: 100+ H/M.
 - Success Rate: 17 payouts from competitive audits.
 - Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes.
 - Winner – Ethereum Foundation Prize at ETHGlobal New Delhi 2025 for building zkETHer, a privacy-focused ERC20 with a zk mixer-style circuit.
@@ -34,22 +34,31 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 | Thorchain | Solidity | Jun 2024 | Code4rena | Cross-chain DEX | 1H | #13 | $458.56 |
 | Taiko | Solidity | Mar 2024 | Code4rena | Layer 2 | 1H | #18 | $1,030.98 |
 
-## Fellowship-Based Audits
+## Fellowship-Based Competitive Audits
 
 | Contest                  | Language | Date       | Platform    | Category               | Findings | Ranking  | Earned Amount |
 |--------------------------|----------|------------|-------------|------------------------|----------|----------|---------------|
 | **Metropolis**           | Solidity | 11/04/2025 | Cantina     | Vault                  | 6        | #15      | $379          |
 | **Mighty-Finance**       | Solidity | 04/21/2025 | Cantina     | Yield Generation       | 14        | #5       | $1,140        |
-| **Upside**               | Solidity | 05/20/2025 | Code4rena   | Liquid Staking         | —        | —        | —             |
 | **Aave-Aptos**           | Move     | 05/24/2025 | Cantina     | Lending & Borrowing    | 3        | —        | —             |
 | **Cap Stablecoin**       | Solidity | 07/17/2025 | Sherlock    | Stablecoin / Staking   | —        | —        | —             |
-| **Malda**                | Solidity | 07/25/2025 | Sherlock    | Lending, L2, zkProof   | 1        | -        | —             |
 | **Neutrl Protocol**      | Solidity | 08/19/2025 | Sherlock    | Stablecoin Derivatives | 1        | #1       | $941          |
 | **Blockz (Marketplace)** | Solidity | 09/08/2025 | Hackenproof | NFT Marketplace        | 4        | #9  | $151             |
 | **Dango Dex**            | Rust     | 09/16/2025 | Sherlock    | DEX                    | 2        | Awaiting Results  | —             |
 | **Super DCA**            | Solidity | 09/29/2025 | Sherlock    | AMM                    | 2        | - | $29 |
-| **Belong** | Solidity & Cairo | 10/21/2025 | Immunify | - | 7 | Awaiting Results | - | 
-| **Rain** | Solidity | 11/4/2025 | HackenProof | Pediction Markets | 3 | Awaiting Results | - |
+| **Belong** | Solidity & Cairo | 10/21/2025 | Immunify | - | 7 | #15 | $349 | 
+| **Rain** | Solidity | 11/4/2025 | HackenProof | Pediction Markets | 3 | - | $43.5 |
+
+## Fellowship-Based Client Audits
+
+| Protocol name | Protocol Type | Report | Date |
+|---------------|---------------|--------|------|
+| Eole User Dashboard | Web2 Security Audit | Private | Jan 2026|
+| FanplaPool(Staking & Reward Pool) | Smart Contract Audit | Private | Feb 2026 |
+| TIS Security Token Contract | Smart Contract Audit | Private | March 2026 |
+| Jasmy Audit | Hybrid Web2/Web3 Audit | Private | April 2026 |
+
+
 
 ## Private Audits
 
@@ -71,10 +80,17 @@ https://techfund.jp/en/media/perpetual-swaps
 **How Solana Accounts Are Different from Ethereum Contracts** :
 https://techfund.jp/en/media/solana-accounts-vs-ethereum-contracts
 
+**Solana Program Security Pitfalls and How to Prevent Them** :
+https://techfund.jp/en/media/solana-security-pitfalls-and-fixes
+
+**The Internet Finally Has a Payment Layer : Meet x402** :
+https://techfund.jp/en/media/internet-payment-layer-x402
+
+
 ## Technical Skills
 
 **Security Specializations:**
-- Smart Contract Auditing (Solidity, Move, Rust)
+- Smart Contract Auditing (Ethereum, Solana, Sui)
 - DeFi Protocol Security Analysis
 - Economic Attack Vector Research
 - Formal Verification Techniques
