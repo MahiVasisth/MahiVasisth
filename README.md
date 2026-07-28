@@ -57,6 +57,7 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 | FanplaPool(Staking & Reward Pool) | Smart Contract Audit | Private | Feb 2026 |
 | TIS Security Token Contract | Smart Contract Audit | Private | March 2026 |
 | Jasmy Audit | Hybrid Web2/Web3 Audit | Private | April 2026 |
+| Housd Vault | Web3 Audit | Private | July 2026 |
 
 
 
