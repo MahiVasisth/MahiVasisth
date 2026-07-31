@@ -153,10 +153,6 @@ https://techfund.jp/en/media/internet-payment-layer-x402
 **Availability:** Open for security consultations and protocol audits
 **Specialization:** DeFi security, smart contract vulnerabilities, economic attack vectors
 
-**Contact Information:**
-- Email: mohinivasisth4@gmail.com
-- Phone: +91 9817808108
-
 **Audit Profiles:**
 - Sherlock: https://audits.sherlock.xyz/watson/MahiVasisth
 - Code4rena Individual: https://code4rena.com/@Mahi_Vasisth
