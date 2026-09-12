@@ -56,6 +56,7 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 | JPYD Audit | Hybrid Web2/Web3 Audit | [Link](https://github.com/MahiVasisth/Client-Audit-Reports/blob/main/JPYD_Stablecoin_Platform_Security_Audit_Web2Report_04052026.md) | April 2026 |
 | Housd Vault | Web3 Audit | [link](https://github.com/MahiVasisth/Client-Audit-Reports/blob/main/HOUSDVault_Report.md) | July 2026 |
 | Housd Vault(II)| Web3 Audit | [Link](https://github.com/MahiVasisth/Client-Audit-Reports/blob/main/Housd_ODL_Vault_SecurityReport.md) | September 2026 |
+| SBI Traceability Audit | Web3 Audit | [Link](https://github.com/MahiVasisth/Client-Audit-Reports/blob/main/SBI-Traceability-RWA_Audit-Report.md) | August 2026 |
 
 
 ## Private Audits
