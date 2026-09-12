@@ -12,42 +12,39 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 
 ## Competitive Audits
 
-| Contest | Language | Date | Platform | Category | Findings | Ranking | Payout |
-|---------|----------|------|----------|----------|----------|---------|---------|
-| Reflector | Rust | Nov 2025 | Code4rena | Steller DeFi | - | - | - |
-| SuiDex SC DualDefense Audit | Move | September 2025 | Hackenproof | DEX and Yield Farming | - | - | - |
-| alchemix-v3 | Solidity | May 2025 | Cantina | DeFi Lending | 4 findings | #41 | $156.91 |
-| mezo-monorepo | Solidity | Apr 2025 | Cantina | Bitcoin DeFi | 2 findings | #42 | $42.39 |
-| BitVault | Solidity | Apr 2025 | Code4rena | DeFi Vault | 1H | #5 | $650.53 |
-| PinLink | Solidity | Mar 2025 | Sherlock | RWA Marketplace | 1 finding | #44 | $13.20 |
-| Symmio Staking | Solidity | Mar 2025 | Sherlock | Staking Protocol | 2 findings | #10 | $68.35 |
-| Core Contracts | Solidity | Feb 2025 | CodeHawks | Lending Protocol | 37 findings | #18 | $1,086.03 |
-| Liquid Ron | Solidity | Jan 2025 | Code4rena | Liquid Staking | 1H | #12 | $0 |
-| daao-contracts | Solidity | Jan 2025 | Cantina | DAO Governance | 1 finding | #122 | $0.23 |
-| Aave DIVA Wrapper | Solidity | Jan 2025 | CodeHawks | DeFi Wrapper | 1 finding | #9 | $0.04 |
-| InterPol | Solidity | Dec 2024 | Cantina | Cross-chain | 1 finding | #10 | $156.87 |
-| Project | Solidity | Nov 2024 | CodeHawks | Meta Transaction | 1 finding | #12 | $98.19 |
-| Tadle | Solidity | Aug 2024 | CodeHawks | Trading Protocol | 4 findings | #121 | $4.17 |
-| TraitForge | Solidity | Jul 2024 | Code4rena | NFT Gaming | 1 finding | #89 | $0 |
-| Zaros Part 1 | Solidity | Jul 2024 | CodeHawks | Perpetuals | 1 finding | #66 | $32.97 |
-| TempleGold | Solidity | Jul 2024 | CodeHawks | DeFi Token | 2 findings | #31 | $50.91 |
-| Thorchain | Solidity | Jun 2024 | Code4rena | Cross-chain DEX | 1H | #13 | $458.56 |
-| Taiko | Solidity | Mar 2024 | Code4rena | Layer 2 | 1H | #18 | $1,030.98 |
+| Contest | Language | Date | Platform | Category | Findings | Ranking |
+|---------|----------|------|----------|----------|----------|---------|
+| alchemix-v3 | Solidity | May 2025 | Cantina | DeFi Lending | 4 findings | #41 |
+| mezo-monorepo | Solidity | Apr 2025 | Cantina | Bitcoin DeFi | 2 findings | #42 |
+| BitVault | Solidity | Apr 2025 | Code4rena | DeFi Vault | 1H | #5 |
+| PinLink | Solidity | Mar 2025 | Sherlock | RWA Marketplace | 1 finding | #44 |
+| Symmio Staking | Solidity | Mar 2025 | Sherlock | Staking Protocol | 2 findings | #10 |
+| Core Contracts | Solidity | Feb 2025 | CodeHawks | Lending Protocol | 37 findings | #18 |
+| Liquid Ron | Solidity | Jan 2025 | Code4rena | Liquid Staking | 1H | #12 |
+| daao-contracts | Solidity | Jan 2025 | Cantina | DAO Governance | 1 finding | #122 |
+| Aave DIVA Wrapper | Solidity | Jan 2025 | CodeHawks | DeFi Wrapper | 1 finding | #9 |
+| InterPol | Solidity | Dec 2024 | Cantina | Cross-chain | 1 finding | #10 |
+| Project | Solidity | Nov 2024 | CodeHawks | Meta Transaction | 1 finding | #12 |
+| Tadle | Solidity | Aug 2024 | CodeHawks | Trading Protocol | 4 findings | #121 |
+| TraitForge | Solidity | Jul 2024 | Code4rena | NFT Gaming | 1 finding | #89 |
+| Zaros Part 1 | Solidity | Jul 2024 | CodeHawks | Perpetuals | 1 finding | #66 |
+| TempleGold | Solidity | Jul 2024 | CodeHawks | DeFi Token | 2 findings | #31 |
+| Thorchain | Solidity | Jun 2024 | Code4rena | Cross-chain DEX | 1H | #13 |
+| Taiko | Solidity | Mar 2024 | Code4rena | Layer 2 | 1H | #18 |
+
 
 ## Fellowship-Based Competitive Audits
 
-| Contest                  | Language | Date       | Platform    | Category               | Findings | Ranking  | Earned Amount |
-|--------------------------|----------|------------|-------------|------------------------|----------|----------|---------------|
-| **Metropolis**           | Solidity | 11/04/2025 | Cantina     | Vault                  | 6        | #15      | $379          |
-| **Mighty-Finance**       | Solidity | 04/21/2025 | Cantina     | Yield Generation       | 14        | #5       | $1,140        |
-| **Aave-Aptos**           | Move     | 05/24/2025 | Cantina     | Lending & Borrowing    | 3        | —        | —             |
-| **Cap Stablecoin**       | Solidity | 07/17/2025 | Sherlock    | Stablecoin / Staking   | —        | —        | —             |
-| **Neutrl Protocol**      | Solidity | 08/19/2025 | Sherlock    | Stablecoin Derivatives | 1        | #1       | $941          |
-| **Blockz (Marketplace)** | Solidity | 09/08/2025 | Hackenproof | NFT Marketplace        | 4        | #9  | $151             |
-| **Dango Dex**            | Rust     | 09/16/2025 | Sherlock    | DEX                    | 2        | Awaiting Results  | —             |
-| **Super DCA**            | Solidity | 09/29/2025 | Sherlock    | AMM                    | 2        | - | $29 |
-| **Belong** | Solidity & Cairo | 10/21/2025 | Immunify | - | 7 | #15 | $349 | 
-| **Rain** | Solidity | 11/4/2025 | HackenProof | Pediction Markets | 3 | - | $43.5 |
+| Contest                  | Language | Date       | Platform    | Category               | Findings | Ranking          |
+|--------------------------|----------|------------|-------------|------------------------|----------|------------------|
+| **Metropolis**           | Solidity | 11/04/2025 | Cantina     | Vault                  | 6        | #15              |
+| **Mighty-Finance**       | Solidity | 04/21/2025 | Cantina     | Yield Generation       | 14       | #5               |
+| **Aave-Aptos**           | Move     | 05/24/2025 | Cantina     | Lending & Borrowing    | 3        | —                |
+| **Neutrl Protocol**      | Solidity | 08/19/2025 | Sherlock    | Stablecoin Derivatives | 1        | #1               |
+| **Blockz (Marketplace)** | Solidity | 09/08/2025 | Hackenproof | NFT Marketplace        | 4        | #9               |
+| **Super DCA**            | Solidity | 09/29/2025 | Sherlock    | AMM                    | 2        | -                |
+| **Belong**               | Solidity & Cairo | 10/21/2025 | Immunify | -                 | 7        | #15              |
+| **Rain**                 | Solidity | 11/4/2025  | HackenProof | Pediction Markets      | 3        | -                |
 
 ## Fellowship-Based Client Audits
 
