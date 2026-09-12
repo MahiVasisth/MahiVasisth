@@ -53,7 +53,7 @@ Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Securi
 | Eole User Dashboard | Web2 Security Audit | [Link](https://github.com/MahiVasisth/Client-Audit-Reports/blob/main/Eole_UserDashboard.md) | Jan 2026|
 | FanplaPool(Staking & Reward Pool) | Smart Contract Audit | [Link](https://github.com/MahiVasisth/Client-Audit-Reports/blob/main/FanplaPool_Report.md) | Feb 2026 |
 | TIS Security Token Contract | Smart Contract Audit | [Link](https://github.com/MahiVasisth/Client-Audit-Reports/blob/main/TIS_Security_Token_Audit_Report.md) | March 2026 |
-| Jasmy Audit | Hybrid Web2/Web3 Audit | Link | April 2026 |
+| JPYD Audit | Hybrid Web2/Web3 Audit | [Link](https://github.com/MahiVasisth/Client-Audit-Reports/blob/main/JPYD_Stablecoin_Platform_Security_Audit_Web2Report_04052026.md) | April 2026 |
 | Housd Vault | Web3 Audit | [link](https://github.com/MahiVasisth/Client-Audit-Reports/blob/main/HOUSDVault_Report.md) | July 2026 |
 | Housd Vault(II)| Web3 Audit | [Link](https://github.com/MahiVasisth/Client-Audit-Reports/blob/main/Housd_ODL_Vault_SecurityReport.md) | September 2026 |
 
