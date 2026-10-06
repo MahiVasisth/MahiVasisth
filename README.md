@@ -3,7 +3,7 @@ Hi there 👋. I’m Mahi Vasisth.
 Independent Web3 Security Researcher (Mar 2024 – Apr 2025), currently a Security Researcher at TechFund Inc. Specialized in smart contract auditing, DeFi security, and blockchain infrastructure, with a strong focus on identifying vulnerabilities, writing proof-of-concepts, and contributing to secure protocol design. Experienced in both solo and team-based audits across competitive platforms, and recognized for winning the Ethereum Foundation Prize 🥇 at ETHGlobal New Delhi 2025 for building zkETHer, a privacy-focused ERC20 with a zk mixer-style circuit.
 
 **Achievements:**
-- 2 year of Smart Contract Auditing Experience. 
+- 2.6 year of Smart Contract Auditing Experience. 
 - Total Findings: 100+ H/M.
 - Success Rate: 17 payouts from competitive audits.
 - Top Performance: 4x Top 10, 9x Top 25, 13x Top 50 finishes.
