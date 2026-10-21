@@ -147,6 +147,17 @@ https://techfund.jp/en/media/internet-payment-layer-x402
 
 ## Projects
 
+**Featured Projects:**
+
+- **[fheMX](https://github.com/yashsharma22003/fheMX)** – Privacy layer for GMX V2 built on Fhenix CoFHE fully homomorphic encryption. Sealed limit-entry, stop-loss, take-profit and trailing-stop orders whose trigger prices are evaluated on ciphertext and never revealed. Triggered orders execute as standard GMX V2 market orders through self-custodial per-user account contracts, with permissionless keepers and no admin keys.
+  *Stack: Solidity 0.8.25, Foundry, Fhenix CoFHE, GMX V2, Chainlink, Next.js, TypeScript · Deployed on Arbitrum Sepolia*
+
+- **[ShadeSpot](https://github.com/shadespot-perps/contracts)** – Fully FHE-encrypted perpetual futures DEX. Position size, collateral, entry price and direction stay encrypted on-chain. PnL, funding rates and liquidation checks are computed homomorphically, and only the final settlement and a single-bit liquidation flag are ever decrypted. Includes an encrypted LP vault, an encrypted LP token (SLP) and encrypted limit/trigger orders.
+  *Stack: Solidity, Foundry, Fhenix CoFHE, FHERC20, NestJS keepers, React · Deployed on Ethereum, Arbitrum and Base Sepolia*
+
+- **[FanPulse](https://github.com/MahiVasisth/FanPulse)** – Social prediction-challenge game built on DreamDEX Event Contracts. Users take a side on a live market, another user challenges with the opposite side, and winners earn Challenge Energy and an Elo-style rating. Market odds are shown alongside an AI estimate from Somnia Agents. The service is non-custodial and never holds user funds.
+  *Stack: NestJS 11, Prisma, PostgreSQL, SIWE auth, Somnia Markets SDK, Somnia Agents · Somnia Shannon testnet*
+
 **DeFi Protocol Development (Scroll Testnet):**
 - TrustLend: Decentralized lending protocol
 - Fortifi: Security infrastructure platform
@@ -154,7 +165,6 @@ https://techfund.jp/en/media/internet-payment-layer-x402
 - MoodMingle: Social DeFi application
 - Artify: NFT marketplace platform
 - CryptoLuck: Randomization protocol
-
 ## Collaboration
 
 **Availability:** Open to new roles, security consultations and protocol audits
