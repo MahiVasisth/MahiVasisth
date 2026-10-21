@@ -115,7 +115,7 @@ https://techfund.jp/en/media/internet-payment-layer-x402
 
 ## Professional Experience
 
-**Security Researcher** - TechFund Inc. (April 2025 - Present)
+**Security Researcher** - TechFund Inc. (April 2025 - October 2026)
 - Reviewing systems to find and fix security issues
 - Creating tools to automatically detect vulnerabilities
 - Leading research projects to improve overall security
