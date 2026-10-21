@@ -3,6 +3,12 @@ Hi there 👋. I'm Mohini (Mahi) Vasisth.
 
 Web3 Security Researcher with 2.5+ years of experience. Security Researcher at TechFund Inc. (Apr 2025 – Oct 2026), delivering client and competitive audits across Solidity, Move, Cairo and Web2/Web3 systems and building automated vulnerability-detection tooling. Independent Security Researcher (Mar 2024 – May 2025), competing on Code4rena, Sherlock, CodeHawks, and Cantina. Experienced in both solo and team-based audits across competitive platforms, and recognized for winning the Ethereum Foundation Prize 🥇 at ETHGlobal New Delhi 2025 for building zkETHer, a privacy-focused ERC20 with a zk mixer-style circuit.
 
+Hi there 👋. I'm Mohini (Mahi) Vasisth.
+
+Web3 Security Researcher with 2.5+ years of experience. Security Researcher at TechFund Inc. (Apr 2025 – Oct 2026), where I delivered client and competitive audits across Solidity, Move, Cairo and Web2/Web3 systems and built automated vulnerability-detection tooling. Independent Security Researcher (Mar 2024 – May 2025), competing on Code4rena, Sherlock, CodeHawks, and Cantina. Experienced in both solo and team-based audits across competitive platforms, and recognized for winning the Ethereum Foundation Prize 🥇 at ETHGlobal New Delhi 2025 for building zkETHer, a privacy-focused ERC20 with a zk mixer-style circuit.
+
+- Currently deepening my zero-knowledge expertise through the RareSkills ZK Book (5 modules completed), with a focus on ZK circuit security.
+
 **Achievements:**
 - 2.5+ years of Smart Contract Auditing Experience.
 - Total Findings: 100+ H/M.
